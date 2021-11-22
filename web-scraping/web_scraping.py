@@ -2,6 +2,11 @@ import requests
 import json
 from bs4 import BeautifulSoup as bs
 
+
+__version__ = '0.1.0'
+
+
+
 data_url = "https://en.wikipedia.org/wiki/History_of_association_football"
 
 def get_citations_needed_count(url):
