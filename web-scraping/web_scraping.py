@@ -7,7 +7,7 @@ __version__ = '0.1.0'
 
 
 
-data_url = "https://en.wikipedia.org/wiki/History_of_association_football"
+data_url = "https://en.wikipedia.org/wiki/History_of_Mexico"
 
 def get_citations_needed_count(url):
 
